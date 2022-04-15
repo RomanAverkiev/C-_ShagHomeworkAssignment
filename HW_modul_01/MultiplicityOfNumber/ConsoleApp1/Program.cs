@@ -18,11 +18,11 @@ namespace MultiplicityOfNumber
         static void Main(string[] args)
         {  
             Console.WriteLine("Введите целое число");              // Просим пользователя ввести число
-            String str = Console.ReadLine();                       // Ввод числа
-            Int32 num;                                             // Создаем переменную типа int
+            string str = Console.ReadLine();                       // Ввод числа
+            Int32 num;                                             // Создаем переменную типа int 
 
             // Проверка введенного значения
-            if (StringIsDigits(str))                               // Введено целое число
+            if (StringIsDigits((str))                               // Введено целое число
             {
                 num = Convert.ToInt32(str);                        // Конвертирование строки в число
 
