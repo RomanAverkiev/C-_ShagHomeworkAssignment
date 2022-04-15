@@ -22,7 +22,7 @@ namespace MultiplicityOfNumber
             Int32 num;                                             // Создаем переменную типа int 
 
             // Проверка введенного значения
-            if (StringIsDigits((str))                               // Введено целое число
+            if (StringIsDigits(str))                               // Введено целое число
             {
                 num = Convert.ToInt32(str);                        // Конвертирование строки в число
 
