@@ -1,0 +1,15 @@
+F:\Project\Shag\C#_HomeworkAssignment\HW_modul_01\MultiplicityOfNumber\ConsoleApp1\bin\Debug\net6.0\MultiplicityOfNumber.exe
+F:\Project\Shag\C#_HomeworkAssignment\HW_modul_01\MultiplicityOfNumber\ConsoleApp1\bin\Debug\net6.0\MultiplicityOfNumber.deps.json
+F:\Project\Shag\C#_HomeworkAssignment\HW_modul_01\MultiplicityOfNumber\ConsoleApp1\bin\Debug\net6.0\MultiplicityOfNumber.runtimeconfig.json
+F:\Project\Shag\C#_HomeworkAssignment\HW_modul_01\MultiplicityOfNumber\ConsoleApp1\bin\Debug\net6.0\MultiplicityOfNumber.dll
+F:\Project\Shag\C#_HomeworkAssignment\HW_modul_01\MultiplicityOfNumber\ConsoleApp1\bin\Debug\net6.0\ref\MultiplicityOfNumber.dll
+F:\Project\Shag\C#_HomeworkAssignment\HW_modul_01\MultiplicityOfNumber\ConsoleApp1\bin\Debug\net6.0\MultiplicityOfNumber.pdb
+F:\Project\Shag\C#_HomeworkAssignment\HW_modul_01\MultiplicityOfNumber\ConsoleApp1\obj\Debug\net6.0\MultiplicityOfNumber.csproj.AssemblyReference.cache
+F:\Project\Shag\C#_HomeworkAssignment\HW_modul_01\MultiplicityOfNumber\ConsoleApp1\obj\Debug\net6.0\MultiplicityOfNumber.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\Shag\C#_HomeworkAssignment\HW_modul_01\MultiplicityOfNumber\ConsoleApp1\obj\Debug\net6.0\MultiplicityOfNumber.AssemblyInfoInputs.cache
+F:\Project\Shag\C#_HomeworkAssignment\HW_modul_01\MultiplicityOfNumber\ConsoleApp1\obj\Debug\net6.0\MultiplicityOfNumber.AssemblyInfo.cs
+F:\Project\Shag\C#_HomeworkAssignment\HW_modul_01\MultiplicityOfNumber\ConsoleApp1\obj\Debug\net6.0\MultiplicityOfNumber.csproj.CoreCompileInputs.cache
+F:\Project\Shag\C#_HomeworkAssignment\HW_modul_01\MultiplicityOfNumber\ConsoleApp1\obj\Debug\net6.0\MultiplicityOfNumber.dll
+F:\Project\Shag\C#_HomeworkAssignment\HW_modul_01\MultiplicityOfNumber\ConsoleApp1\obj\Debug\net6.0\ref\MultiplicityOfNumber.dll
+F:\Project\Shag\C#_HomeworkAssignment\HW_modul_01\MultiplicityOfNumber\ConsoleApp1\obj\Debug\net6.0\MultiplicityOfNumber.pdb
+F:\Project\Shag\C#_HomeworkAssignment\HW_modul_01\MultiplicityOfNumber\ConsoleApp1\obj\Debug\net6.0\MultiplicityOfNumber.genruntimeconfig.cache
