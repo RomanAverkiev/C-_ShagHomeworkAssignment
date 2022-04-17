@@ -1,0 +1,15 @@
+F:\Project\Shag\C#_HomeworkAssignment\HW_modul_01\PercentageOfTheNumber\obj\Debug\net6.0\PercentageOfTheNumber.csproj.AssemblyReference.cache
+F:\Project\Shag\C#_HomeworkAssignment\HW_modul_01\PercentageOfTheNumber\obj\Debug\net6.0\PercentageOfTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\Shag\C#_HomeworkAssignment\HW_modul_01\PercentageOfTheNumber\obj\Debug\net6.0\PercentageOfTheNumber.AssemblyInfoInputs.cache
+F:\Project\Shag\C#_HomeworkAssignment\HW_modul_01\PercentageOfTheNumber\obj\Debug\net6.0\PercentageOfTheNumber.AssemblyInfo.cs
+F:\Project\Shag\C#_HomeworkAssignment\HW_modul_01\PercentageOfTheNumber\obj\Debug\net6.0\PercentageOfTheNumber.csproj.CoreCompileInputs.cache
+F:\Project\Shag\C#_HomeworkAssignment\HW_modul_01\PercentageOfTheNumber\bin\Debug\net6.0\PercentageOfTheNumber.exe
+F:\Project\Shag\C#_HomeworkAssignment\HW_modul_01\PercentageOfTheNumber\bin\Debug\net6.0\PercentageOfTheNumber.deps.json
+F:\Project\Shag\C#_HomeworkAssignment\HW_modul_01\PercentageOfTheNumber\bin\Debug\net6.0\PercentageOfTheNumber.runtimeconfig.json
+F:\Project\Shag\C#_HomeworkAssignment\HW_modul_01\PercentageOfTheNumber\bin\Debug\net6.0\PercentageOfTheNumber.dll
+F:\Project\Shag\C#_HomeworkAssignment\HW_modul_01\PercentageOfTheNumber\bin\Debug\net6.0\ref\PercentageOfTheNumber.dll
+F:\Project\Shag\C#_HomeworkAssignment\HW_modul_01\PercentageOfTheNumber\bin\Debug\net6.0\PercentageOfTheNumber.pdb
+F:\Project\Shag\C#_HomeworkAssignment\HW_modul_01\PercentageOfTheNumber\obj\Debug\net6.0\PercentageOfTheNumber.dll
+F:\Project\Shag\C#_HomeworkAssignment\HW_modul_01\PercentageOfTheNumber\obj\Debug\net6.0\ref\PercentageOfTheNumber.dll
+F:\Project\Shag\C#_HomeworkAssignment\HW_modul_01\PercentageOfTheNumber\obj\Debug\net6.0\PercentageOfTheNumber.pdb
+F:\Project\Shag\C#_HomeworkAssignment\HW_modul_01\PercentageOfTheNumber\obj\Debug\net6.0\PercentageOfTheNumber.genruntimeconfig.cache
